@@ -1,5 +1,5 @@
 /**
- * OOPSBannerApp UC6 - OOPS Banner Display Application
+ * OOPSBannerApp UC7 - OOPS Banner Display Application
  * @author Satviik Daga
  * @version 7.0
  */
